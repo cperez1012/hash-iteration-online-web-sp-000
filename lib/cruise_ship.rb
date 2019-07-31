@@ -15,5 +15,5 @@ passengers.each do |suite, name|
   end
 end
 winner
-end 
+end
 # select_winner(passengers)
